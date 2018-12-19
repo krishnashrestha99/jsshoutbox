@@ -9,5 +9,27 @@
 </head>
 <body>
 
+	<div id="container">
+		<header>
+			<h1>JS Shoutbox</h1>
+		</header>
+
+		<div id="shouts">
+			<ul>
+				<li></li>
+			</ul>
+		</div>
+
+		<footer>
+			<form action="">
+				<label for="name">Name:</label>
+				<input type="text" id="name">
+				<label for="shout_text"></label>
+				<input type="text" id="shout">
+				<input type="submit" id="submit" value="SHOUT!">
+			</form>
+		</footer>
+	</div>
+
 </body>
 </html>
