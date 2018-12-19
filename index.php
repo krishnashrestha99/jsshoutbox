@@ -24,7 +24,7 @@
 			<form action="">
 				<label for="name">Name:</label>
 				<input type="text" id="name">
-				<label for="shout_text"></label>
+				<label for="shout_text">Shout Text:</label>
 				<input type="text" id="shout">
 				<input type="submit" id="submit" value="SHOUT!">
 			</form>
