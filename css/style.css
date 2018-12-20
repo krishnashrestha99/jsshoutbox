@@ -31,9 +31,10 @@ header
 #shouts
 {
 	height: 200px;
-	border: #333 1px solid;
-	margin : 30px;
-	padding: 15px;
+		border: #333 1px solid;
+		margin : 30px;
+		padding: 15px;
+		overflow : auto;
 }
 
 #shouts li
@@ -74,3 +75,4 @@ input#submit
 	color: #fff;
 	cursor: pointer;
 }
+

@@ -41,6 +41,5 @@ function getDate()
 			('00' + date.getUTCHours()).slice(-2) + ':' +
 			('00' + date.getUTCMinutes()).slice(-2) + ':' +
 			('00' + date.getUTCSeconds()).slice(-2);
-
-			return date;
+	return date;
 }
